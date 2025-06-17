@@ -15,4 +15,12 @@
     <name>payments-service</name>
     <description>Payment Service for Shop System</description>
 
+    <dependencies>
+        <dependency>
+            <groupId>org.springdoc</groupId>
+            <artifactId>springdoc-openapi-starter-webmvc-ui</artifactId>
+            <version>2.1.0</version>
+        </dependency>
+    </dependencies>
+
 </project> 
