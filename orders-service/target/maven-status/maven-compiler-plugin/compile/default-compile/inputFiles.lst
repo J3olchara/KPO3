@@ -1,0 +1,11 @@
+/Users/arseniizxc/Desktop/coding/KPO3/orders-service/src/main/java/ru/kpo/orders/OrdersServiceApplication.java
+/Users/arseniizxc/Desktop/coding/KPO3/orders-service/src/main/java/ru/kpo/orders/config/AppConfig.java
+/Users/arseniizxc/Desktop/coding/KPO3/orders-service/src/main/java/ru/kpo/orders/config/KafkaConfig.java
+/Users/arseniizxc/Desktop/coding/KPO3/orders-service/src/main/java/ru/kpo/orders/controller/OrderController.java
+/Users/arseniizxc/Desktop/coding/KPO3/orders-service/src/main/java/ru/kpo/orders/model/Order.java
+/Users/arseniizxc/Desktop/coding/KPO3/orders-service/src/main/java/ru/kpo/orders/model/OutboxEvent.java
+/Users/arseniizxc/Desktop/coding/KPO3/orders-service/src/main/java/ru/kpo/orders/repository/OrderRepository.java
+/Users/arseniizxc/Desktop/coding/KPO3/orders-service/src/main/java/ru/kpo/orders/repository/OutboxEventRepository.java
+/Users/arseniizxc/Desktop/coding/KPO3/orders-service/src/main/java/ru/kpo/orders/service/OrderService.java
+/Users/arseniizxc/Desktop/coding/KPO3/orders-service/src/main/java/ru/kpo/orders/service/OutboxEventProcessor.java
+/Users/arseniizxc/Desktop/coding/KPO3/orders-service/src/main/java/ru/kpo/orders/service/PaymentStatusListener.java

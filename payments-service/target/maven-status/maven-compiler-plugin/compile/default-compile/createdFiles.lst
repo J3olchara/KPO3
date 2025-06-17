@@ -1,0 +1,10 @@
+ru/kpo/payments/repository/PaymentTransactionRepository.class
+ru/kpo/payments/model/PaymentTransaction$PaymentStatus.class
+ru/kpo/payments/model/Account.class
+ru/kpo/payments/service/PaymentService.class
+ru/kpo/payments/PaymentsServiceApplication.class
+ru/kpo/payments/controller/PaymentController.class
+ru/kpo/payments/config/KafkaConfig.class
+ru/kpo/payments/repository/AccountRepository.class
+ru/kpo/payments/service/KafkaProducerService.class
+ru/kpo/payments/model/PaymentTransaction.class

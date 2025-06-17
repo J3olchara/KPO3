@@ -1,0 +1,12 @@
+ru/kpo/orders/model/OutboxEvent.class
+ru/kpo/orders/model/Order.class
+ru/kpo/orders/service/PaymentStatusListener.class
+ru/kpo/orders/config/KafkaConfig.class
+ru/kpo/orders/model/Order$OrderStatus.class
+ru/kpo/orders/controller/OrderController.class
+ru/kpo/orders/repository/OutboxEventRepository.class
+ru/kpo/orders/OrdersServiceApplication.class
+ru/kpo/orders/repository/OrderRepository.class
+ru/kpo/orders/config/AppConfig.class
+ru/kpo/orders/service/OutboxEventProcessor.class
+ru/kpo/orders/service/OrderService.class

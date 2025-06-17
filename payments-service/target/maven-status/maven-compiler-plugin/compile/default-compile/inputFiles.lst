@@ -1,0 +1,9 @@
+/Users/arseniizxc/Desktop/coding/KPO3/payments-service/src/main/java/ru/kpo/payments/PaymentsServiceApplication.java
+/Users/arseniizxc/Desktop/coding/KPO3/payments-service/src/main/java/ru/kpo/payments/config/KafkaConfig.java
+/Users/arseniizxc/Desktop/coding/KPO3/payments-service/src/main/java/ru/kpo/payments/controller/PaymentController.java
+/Users/arseniizxc/Desktop/coding/KPO3/payments-service/src/main/java/ru/kpo/payments/model/Account.java
+/Users/arseniizxc/Desktop/coding/KPO3/payments-service/src/main/java/ru/kpo/payments/model/PaymentTransaction.java
+/Users/arseniizxc/Desktop/coding/KPO3/payments-service/src/main/java/ru/kpo/payments/repository/AccountRepository.java
+/Users/arseniizxc/Desktop/coding/KPO3/payments-service/src/main/java/ru/kpo/payments/repository/PaymentTransactionRepository.java
+/Users/arseniizxc/Desktop/coding/KPO3/payments-service/src/main/java/ru/kpo/payments/service/KafkaProducerService.java
+/Users/arseniizxc/Desktop/coding/KPO3/payments-service/src/main/java/ru/kpo/payments/service/PaymentService.java
